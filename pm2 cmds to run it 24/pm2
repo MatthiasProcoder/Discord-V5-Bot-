@@ -1,0 +1,7 @@
+# Install PM2 globally
+sudo npm install -g pm2
+
+# Then start your bot
+pm2 start index.js --name discord-bot
+pm2 save
+pm2 startup
