@@ -1,0 +1,1 @@
+cd ~/discord-bot && npm install discord.js @discordjs/rest discord-api-types fs path minecraft-server-util axios moment ms dotenv && echo "✅ All dependencies installed!"
